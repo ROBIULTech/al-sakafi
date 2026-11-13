@@ -1,0 +1,8 @@
+{
+  "name": "XFOLIO — Full Stack Web Developer Portfolio",
+  "description": "Personal portfolio of Subrata, a Berlin-based Full Stack Web Developer specializing in UI/UX design, web application development, and API architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
